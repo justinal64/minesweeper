@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Minesweeper_(Kotlin).Minesweeper__Kotlin_-task" target="17" />
+      <module name="Minesweeper_(Kotlin).Minesweeper__Kotlin_-task.main" target="17" />
+      <module name="Minesweeper_(Kotlin).Minesweeper__Kotlin_-task.test" target="17" />
+      <module name="Minesweeper_(Kotlin).util" target="17" />
+      <module name="Minesweeper_(Kotlin).util.main" target="17" />
+      <module name="Minesweeper_(Kotlin).util.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
